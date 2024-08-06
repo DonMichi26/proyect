@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --h4: Poppins;
+
+  /* font sizes */
+  --h4-size: 22px;
+  --p2-size: 16px;
+  --h3-size: 28px;
+  --p3-size: 14px;
+  --p4-size: 12px;
+
+  /* Colors */
+  --color-white: #fff;
+  --orange-normal: #e77844;
+  --color-coral-100: rgba(231, 120, 68, 0.8);
+  --color-coral-200: rgba(231, 120, 68, 0.7);
+  --white-dark-hover: #999;
+  --white-dark-active: #737373;
+  --white-darker: #595959;
+
+  /* Gaps */
+  --gap-6xl: 25px;
+
+  /* Border radiuses */
+  --br-mini: 15px;
+}
