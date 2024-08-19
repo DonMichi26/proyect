@@ -1,0 +1,409 @@
+.derechos-reservados-para {
+  margin: 0;
+}
+
+.derechos-reservados-para-container {
+  width: 529px;
+  display: inline-block;
+  position: absolute;
+  top: 25px;
+  left: 30px;
+}
+
+.municipalidad-distrital-de {
+  font-size: var(--p3-size);
+  font-weight: 500;
+  position: absolute;
+  top: 62px;
+  left: calc(50% - 144px);
+}
+
+.icon-heroicons-outline-a {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: hidden;
+}
+
+.contactos {
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 110px;
+  display: flex;
+  position: absolute;
+  top: 25px;
+  left: 1780px;
+}
+
+.barra-final {
+  background-color: var(--white-dark-active);
+  border: 1px solid var(--white-dark-active);
+  box-sizing: border-box;
+  font-size: var(--p4-size);
+  color: var(--color-white);
+  width: 1920px;
+  height: 90px;
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 960px);
+  overflow: hidden;
+}
+
+.quilcas-icon {
+  object-fit: cover;
+  width: 1575.1px;
+  height: 588px;
+  position: absolute;
+  top: calc(50% - 294px);
+  left: calc(50% - 787.5px);
+}
+
+.imagem {
+  background-image: url("-imagem@3x.b49e9ad2.png");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 1921px;
+  height: 1080px;
+  position: absolute;
+  top: 0;
+  left: calc(50% - 961px);
+  overflow: hidden;
+}
+
+.conoce-de-nosotros, .datos {
+  align-self: stretch;
+  position: relative;
+}
+
+.datos {
+  font-size: var(--p2-size);
+  color: var(--white-darker);
+  flex-shrink: 0;
+  align-items: center;
+  height: 264px;
+  font-weight: 500;
+  display: flex;
+}
+
+.text {
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: var(--gap-6xl);
+  flex-direction: column;
+  width: 611px;
+  display: flex;
+}
+
+.figmap-icon {
+  object-fit: cover;
+  width: 700px;
+  height: 500px;
+  position: relative;
+}
+
+.conoce {
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 1532px;
+  display: flex;
+  position: absolute;
+  top: 1203px;
+  left: calc(50% - 766px);
+}
+
+.promoviendo-el-ecoturismo-container, .titulo2-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.titulo2-child {
+  object-fit: contain;
+  width: 964px;
+  height: .6px;
+  top: 41.5px;
+  left: 590px;
+}
+
+.titulo2 {
+  width: 1532px;
+  height: 84px;
+  position: absolute;
+  top: 1907px;
+  left: 194px;
+}
+
+.el-ecoturismo-es {
+  font-size: var(--p2-size);
+  color: var(--white-darker);
+  flex-shrink: 0;
+  align-self: stretch;
+  height: 172px;
+  font-weight: 500;
+  display: inline-block;
+  position: relative;
+}
+
+.text1 {
+  justify-content: center;
+  align-items: flex-start;
+  gap: var(--gap-6xl);
+  flex-direction: column;
+  width: 611px;
+  display: flex;
+}
+
+.imagen-icon {
+  object-fit: cover;
+  border-radius: 18.15px;
+  flex-shrink: 0;
+  width: 700px;
+  height: 500px;
+  position: relative;
+  overflow: hidden;
+}
+
+.ecoturismo {
+  font-size: var(--h4-size);
+  color: var(--color-coral-100);
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 1532px;
+  display: flex;
+  position: absolute;
+  top: 2121px;
+  left: calc(50% - 766px);
+}
+
+.separador-child {
+  width: 978px;
+  max-height: 100%;
+  position: relative;
+}
+
+.conoce-sobre-algunos {
+  flex-shrink: 0;
+  width: 587px;
+  display: inline-block;
+  position: relative;
+}
+
+.separador {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 8px;
+  display: flex;
+  position: absolute;
+  top: 2751px;
+  left: 173px;
+}
+
+.disfruta-de-una {
+  font-size: var(--p2-size);
+  color: var(--white-darker);
+  align-self: stretch;
+  font-weight: 500;
+  position: relative;
+}
+
+.text2 {
+  justify-content: center;
+  align-items: flex-end;
+  gap: var(--gap-6xl);
+  flex-direction: column;
+  width: 500px;
+  display: flex;
+}
+
+.treking-child {
+  border-radius: var(--br-mini);
+  object-fit: cover;
+  flex-shrink: 0;
+  width: 700px;
+  height: 500px;
+  position: relative;
+  overflow: hidden;
+}
+
+.treking {
+  color: var(--color-coral-100);
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 1532px;
+  display: flex;
+  position: absolute;
+  top: 0;
+  left: calc(50% - 766px);
+}
+
+.disfruta-de-una1 {
+  font-size: var(--p2-size);
+  color: var(--white-darker);
+  flex-shrink: 0;
+  align-self: stretch;
+  height: 126px;
+  font-weight: 500;
+  display: inline-block;
+  position: relative;
+}
+
+.camping-parent {
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: var(--gap-6xl);
+  flex-direction: column;
+  width: 500px;
+  display: flex;
+}
+
+.camping {
+  text-align: left;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 1532px;
+  display: flex;
+  position: absolute;
+  top: 611px;
+  left: calc(50% - 766px);
+}
+
+.conoce-las-tradiciones {
+  font-size: var(--p2-size);
+  color: var(--white-darker);
+  flex-shrink: 0;
+  align-self: stretch;
+  height: 112px;
+  font-weight: 500;
+  display: inline-block;
+  position: relative;
+}
+
+.intercambio-cultural-parent {
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+  gap: 34px;
+  width: 500px;
+  display: flex;
+}
+
+.contenido, .intercambio {
+  width: 1532px;
+  position: absolute;
+  left: calc(50% - 766px);
+}
+
+.intercambio {
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+  top: 1222px;
+}
+
+.contenido {
+  text-align: right;
+  font-size: var(--h4-size);
+  color: var(--color-coral-200);
+  height: 1722px;
+  top: 2913px;
+}
+
+.escudo-icon {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  top: calc(50% - 40px);
+  left: 20px;
+}
+
+.cultura, .turismo {
+  position: absolute;
+  top: 0;
+}
+
+.turismo {
+  z-index: 0;
+  flex-shrink: 0;
+  width: 102px;
+  height: 33px;
+  left: -15px;
+  overflow: hidden;
+  margin: 0 !important;
+}
+
+.cultura {
+  left: 0;
+}
+
+.atractivos {
+  z-index: 1;
+  flex-shrink: 0;
+  width: 95px;
+  top: 0;
+  left: 141px;
+  overflow: hidden;
+  margin: 0 !important;
+}
+
+.atractivos, .negocio, .turismo-parent {
+  height: 33px;
+  position: absolute;
+}
+
+.negocio {
+  z-index: 2;
+  flex-shrink: 0;
+  width: 100px;
+  top: 0;
+  left: 290px;
+  overflow: hidden;
+  margin: 0 !important;
+}
+
+.turismo-parent {
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 431px;
+  display: flex;
+  top: calc(50% - 17px);
+  left: calc(50% + 304px);
+}
+
+.barra, .home-page {
+  background-color: var(--color-white);
+}
+
+.barra {
+  border-radius: var(--br-mini);
+  border: 2px solid var(--orange-normal);
+  box-sizing: border-box;
+  font-size: var(--h4-size);
+  color: var(--white-dark-hover);
+  width: 1534px;
+  height: 102px;
+  position: absolute;
+  top: 39px;
+  left: calc(50% - 767px);
+}
+
+.home-page {
+  text-align: left;
+  font-size: var(--h3-size);
+  color: var(--orange-normal);
+  font-family: var(--h4);
+  width: 1920px;
+  max-width: 100%;
+  height: 4787px;
+  overflow: hidden;
+}
+/*# sourceMappingURL=index.9e4c6fd2.css.map */

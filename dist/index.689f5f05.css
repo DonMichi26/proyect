@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  --h4: Poppins;
+  --h4-size: 22px;
+  --p2-size: 16px;
+  --h3-size: 28px;
+  --p3-size: 14px;
+  --p4-size: 12px;
+  --color-white: #fff;
+  --orange-normal: #e77844;
+  --color-coral-100: #e77844cc;
+  --color-coral-200: #e77844b3;
+  --white-dark-hover: #999;
+  --white-dark-active: #737373;
+  --white-darker: #595959;
+  --gap-6xl: 25px;
+  --br-mini: 15px;
+}
+/*# sourceMappingURL=index.689f5f05.css.map */
