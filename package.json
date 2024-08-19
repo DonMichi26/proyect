@@ -1,7 +1,6 @@
 {
   "name": "luis_magro",
   "version": "1.0.0",
-  "description": "",
   "scripts": {
     "start": "parcel ./*.html ",
     "build": "parcel build ./*.html  --dist-dir ./build"
@@ -9,6 +8,22 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "parcel": "^2.7.0"
-  }
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.3",
+    "@babel/preset-react": "^7.24.7",
+    "babel-loader": "^9.1.3",
+    "html-webpack-plugin": "^5.6.0",
+    "parcel": "^2.12.0",
+    "webpack": "^5.93.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.0.4"
+  },
+  "dependencies": {
+    "luis_magro": "file:",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "main": "index.js",
+  "keywords": [],
+  "description": ""
 }

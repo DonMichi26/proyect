@@ -1,0 +1,113 @@
+
+.barra {
+  position: absolute;
+  background-color: var(--color-white);
+  top: 39px;
+  left: calc(50% - 767px);
+  border-radius: var(--br-mini);
+  border: 2px solid var(--orange-normal);
+  box-sizing: border-box;
+  width: 1534px;
+  height: 102px;
+  font-size: var(--h4-size);
+  color: var(--white-dark-hover);
+}
+
+.escudo-icon {
+    position: absolute;
+    top: calc(50% - 40px);
+    left: 20px;
+    width: 80px;
+    height: 80px;
+}
+
+.cultura,
+.turismo {
+  position: absolute;
+  top: 0;
+  font-family: var(--h4);
+  font-size: var(--h4-size); 
+  color: var(--white-dark-hover);
+}
+
+
+.turismo {
+    width: 102px;
+    margin: 0 !important;
+    left: -15px;
+    height: 33px;
+    overflow: hidden;
+    flex-shrink: 0;
+    z-index: 0;
+}
+.cultura {
+    left: 0;
+}
+
+.atractivos {
+    width: 95px;
+    margin: 0 !important;
+    top: 0;
+    left: 141px;
+    overflow: hidden;
+    flex-shrink: 0;
+    z-index: 1;
+}
+.atractivos,
+.negocio,
+.turismo-parent {
+    position: absolute;
+    height: 33px;
+}
+
+.negocio {
+    width: 100px;
+    margin: 0 !important;
+    top: 0;
+    left: 290px;
+    overflow: hidden;
+    flex-shrink: 0;
+    z-index: 2;
+}
+
+.turismo-parent {
+    top: calc(50% - 17px);
+    left: calc(50% + 304px);
+    font-size: var(--h3-size);
+    width: 431px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.barra,
+.home-page {
+    background-color: var(--color-white);    
+}
+
+.barra {
+    position: absolute;
+    top: 39px;
+    left: calc(50% - 767px);
+    border-radius: var(--br-mini);
+    border: 2px solid var(--orange-normal);
+    box-sizing: border-box;
+    width: 1534px;
+    height: 102px;
+    font-size: var(--h4-size);
+    color: var(--white-dark-hover);
+}
+
+.Imagen-fondo,
+.turismo{
+  position: unset;
+  top: 0;
+  width: 1920px;
+  height: 1080px;
+  overflow: hidden;
+  margin: 2px ;
+  background-size:  1920px auto;
+  background-repeat: no-repeat;
+  background-position: top;   
+}
